@@ -18,3 +18,6 @@
 
 ## Informações adicionais
 * **Tarefa no Basecamp:** https://link-da-tarefa.com.br
+
+## Issue
+Closes #888
