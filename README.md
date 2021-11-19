@@ -20,11 +20,11 @@
 * Closes #888
 
 ## Nota da release
-* Instrução: Sintetize em algumas linhas as suas alterações, tendo em mente as seguintes perguntas:
+* **Instrução**: Sintetize em algumas linhas as suas alterações, tendo em mente as seguintes perguntas:
   *  O que mudou?
   *  Por que fizemos essa mudança?
   *  Como utilizar?
-* Exemplo: Para facilitar a utilização de cupons, agora é possível aplicá-los via URL. Para isso, adicione em qualquer URL da sua loja o parâmetro "?cupom=_hashCupom_".
+* **Exemplo**: Para facilitar a utilização de cupons, agora é possível aplicá-los via URL. Para isso, adicione em qualquer URL da sua loja o parâmetro "?cupom=_hashCupom_".
 
 ## Informação adicional
 * **Tarefa no Basecamp:** https://link-da-tarefa.com.br
