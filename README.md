@@ -1,16 +1,16 @@
 ## Desenvolvimento
 * **Título do desenvolvimento**
-  * Descrição do desenvolvimento.
+  * Descrição técnica do desenvolvimento.
 
 ## Melhoria
 * **Título da melhoria**
-  * Descrição da melhoria.
+  * Descrição técnica da melhoria.
 
 ## Correções
 * **Título da primeira correção**
-  * Descrição da primeira correção.
+  * Descrição técnica da primeira correção.
 * **Título da segunda correção**
-  * Descrição da segunda correção.
+  * Descrição técnica da segunda correção.
 
 ## Alteração de banco
 * Adição do campo **"campo"** na tabela **"tabela"**  
@@ -20,7 +20,11 @@
 * Closes #888
 
 ## Nota da release
-* Agora, o cliente pode escolher receber notificações de promoções e atualizações de seus pedido via WhatsApp. Os campos de permissão estão liberados no checkout/cadastro e na minha conta.
+* Instrução: Sintetize em algumas linhas as suas alterações, tendo em mente as seguintes perguntas:
+  *  O que mudou?
+  *  Por que fizemos essa mudança?
+  *  Como utilizar?
+* Exemplo: Para facilitar a utilização de cupons, agora é possível aplicá-los via URL. Para isso, adicione em qualquer URL da sua loja o parâmetro "?cupom=_hashCupom_".
 
 ## Informação adicional
 * **Tarefa no Basecamp:** https://link-da-tarefa.com.br
