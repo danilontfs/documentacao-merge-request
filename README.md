@@ -27,4 +27,4 @@
 * **Exemplo**: Para facilitar a utilização de cupons, agora é possível aplicá-los via URL. Para isso, adicione em qualquer URL da sua loja o parâmetro "?cupom=_hashCupom_".
 
 ## Informação adicional
-* **Tarefa no Basecamp:** https://link-da-tarefa.com.br
+* **Tarefa no Monday:** https://link-da-tarefa.com.br
