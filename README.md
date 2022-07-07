@@ -24,7 +24,7 @@
   *  O que mudou?
   *  Por que fizemos essa mudança?
   *  Como utilizar?
-* **Exemplo**: Para facilitar a utilização de cupons, agora é possível aplicá-los via URL. Para isso, adicione em qualquer URL da sua loja o parâmetro "?cupom=_hashCupom_".
+* **Exemplo**: Para facilitar a utilização de cupons, agora é possível aplicá-los via URL. Para isso, adicione em qualquer URL da sua loja o parâmetro "?cupom=_hashCupom_". Você pode ativar essa configuração em: www.sua-loja.com.br/wapstore/configuracao/editar/?grupo=marketplace.
 
 ## Informação adicional
 * **Tarefa no Monday:** https://link-da-tarefa.com.br
