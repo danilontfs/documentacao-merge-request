@@ -30,5 +30,26 @@
 * **Configuração:** www.sua-loja.com.br/wapstore/configuracao/editar/?grupo=integracoes/instagram
 * **Dimensões das imagens:** www.sua-loja.com.br/wapstore/configuracao/editar?grupo=sistema/imagens/dimensoes/instashop
 
+
+## Descrição do recurso HTML
+<p><strong>Sobre o AppMax:</strong></p> 
+<p>A AppMax oferece um conjunto de soluções para turbinar o resultado do seu negócio digital. Tenha uma infraestrutura de vendas online altamente otimizada e aumente o faturamento do seu negócio sem esforço adicional.</p>
+
+<br/>
+
+<p><strong>Tipos de pagamentos disponíveis:</strong></p> 
+<ul> 
+<li>Boleto bancário</li> 
+<li>Cartão de crédito</li> 
+<li>Pix</li>
+</ul>
+<br>
+<p><strong>Observações:</strong></p>
+<ul> 
+<li><strong>Painel do AppMax:</strong> https://admin.appmax.com.br/webhooks</li> 
+<li><strong>URL de callback:</strong> www.sua-loja.com.br/api/v2/thirdparty/appmax/callback</li> 
+<li><strong>Eventos configuráveis:</strong> <i>Order Approved, Order Authorized, Order Authorized With Delay (60m), Order Billet Created, Order Billet Overdue, Order Integrated, Order Paid, Order Pending Integration, Order Pix Created, Order Pix Paid, Order Refund</i></li>
+</ul>
+
 ## Informação adicional
 * **Tarefa no Monday:** https://link-da-tarefa.com.br
