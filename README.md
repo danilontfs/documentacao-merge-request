@@ -51,5 +51,12 @@
 <li><strong>Eventos configuráveis:</strong> <i>Order Approved, Order Authorized, Order Authorized With Delay (60m), Order Billet Created, Order Billet Overdue, Order Integrated, Order Paid, Order Pending Integration, Order Pix Created, Order Pix Paid, Order Refund</i></li>
 </ul>
 
+<br/>
+
+<p><strong>Configuração:</strong></p> 
+<p>www.sua-loja.com.br/wapstore/configuracao/editar/?grupo=integracoes/instagram</p> 
+<p><strong>Dimensões das imagens:</strong></p> 
+<p>www.sua-loja.com.br/wapstore/configuracao/editar?grupo=sistema/imagens/dimensoes/instashop</p> 
+
 ## Informação adicional
 * **Tarefa no Monday:** https://link-da-tarefa.com.br
