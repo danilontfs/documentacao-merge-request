@@ -28,14 +28,14 @@
 
 
 ## Descrição do recurso
-<p><strong>Tipos de pagamentos disponíveis:</strong></p> 
+<p><strong>Tipos de pagamentos disponíveis</strong></p> 
 <ul> 
 <li>Boleto bancário</li> 
 <li>Cartão de crédito</li> 
 <li>Pix</li>
 </ul>
 <br>
-<p><strong>Observações:</strong></p>
+<p><strong>Observações</strong></p>
 <ul> 
 <li><strong>Painel do AppMax:</strong> https://admin.appmax.com.br/webhooks</li> 
 <li><strong>Dimensões das imagens:</strong> www.sua-loja.com.br/wapstore/configuracao/editar?grupo=sistema/imagens/dimensoes/instashop/li> 
