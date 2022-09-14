@@ -26,17 +26,8 @@
   *  Como utilizar?
 * **Exemplo**: Para facilitar a utilização de cupons, agora é possível aplicá-los via URL. Para isso, adicione em qualquer URL da sua loja o parâmetro "?cupom=_hashCupom_". Você pode ativar essa configuração em: www.sua-loja.com.br/wapstore/configuracao/editar/?grupo=marketplace.
 
+
 ## Descrição do recurso
-* **Configuração:** www.sua-loja.com.br/wapstore/configuracao/editar/?grupo=integracoes/instagram
-* **Dimensões das imagens:** www.sua-loja.com.br/wapstore/configuracao/editar?grupo=sistema/imagens/dimensoes/instashop
-
-
-## Descrição do recurso HTML
-<p><strong>Sobre o AppMax:</strong></p> 
-<p>A AppMax oferece um conjunto de soluções para turbinar o resultado do seu negócio digital. Tenha uma infraestrutura de vendas online altamente otimizada e aumente o faturamento do seu negócio sem esforço adicional.</p>
-
-<br/>
-
 <p><strong>Tipos de pagamentos disponíveis:</strong></p> 
 <ul> 
 <li>Boleto bancário</li> 
@@ -54,8 +45,7 @@
 
 <br/>
 
-<p><strong>Configuração:</strong></p> 
-<p>www.sua-loja.com.br/wapstore/configuracao/editar/?grupo=integracoes/instagram</p> 
+<p><strong>Configuração:</strong> www.sua-loja.com.br/wapstore/configuracao/editar/?grupo=integracoes/instagram</p> 
 
 ## Informação adicional
 * **Tarefa no Monday:** https://link-da-tarefa.com.br
