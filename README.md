@@ -11,10 +11,6 @@
   * Descrição técnica da primeira correção.
 * **Título da segunda correção**
   * Descrição técnica da segunda correção.
-
-## Alteração de banco
-* Adição do campo **"campo"** na tabela **"tabela"**  
-  [alter-table.sql](https://caminho-do-arquivo.sql)
   
 ## Issue
 * Closes #888
